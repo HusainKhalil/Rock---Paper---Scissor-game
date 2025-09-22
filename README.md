@@ -9,22 +9,22 @@ this will be my project on unit1
 
 
 
-## 📝 Description
-A simple game built with *HTML + CSS + JavaScript* where the player competes against the computer in classic Rock, Paper, Scissors rounds.
-This game allows you to choose *Rock, Paper, or Scissors*, while the computer makes a random choice
+## Description
+A simple game built with "HTML + CSS + JavaScript" where the player competes against the computer in classic Rock, Paper, Scissors rounds.
+This game allows you to choose "Rock, Paper, or Scissors", while the computer makes a random choice
 After each round, the winner is displayed and the score is updated
 
-## 🚀 How to Get Started
+## How to Get Started
  step1:I will create an html file and add the interface elements (buttons and the result of the game)
  step2:I will create a css file for the work of the design and modify the game's appearance
  step3:I will create a js file, put the functions, select the winner, and connect the buttons
 
 im gonna useing this tools on js file
- Manipulating the *DOM*.
-  Using *event listeners*.
- Applying simple *logic with conditions (if/else)*
+ Manipulating the "DOM".
+  Using "event listeners".
+ Applying simple "logic with conditions (if/else)"
 
 
-## 🛠 Requirements
+## Requirements
   No installation needed.
- Just a modern browser with *JavaScript* enabled
+ Just a modern browser with "JavaScript" enabled
